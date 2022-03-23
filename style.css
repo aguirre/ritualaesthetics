@@ -15,6 +15,7 @@ body {
 }
 .photo {
   height: 300px;
+  padding-bottom: 25px;
 }
 .profile_name {
   font-weight: bold;
